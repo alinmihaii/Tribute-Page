@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: Helvetica;
+}
+
+p {
+  text-align: center;
+  font-size: 15;
+  font-family: Ariel;
+  font-style: oblique;
+}
+
+.caption {
+  font-weight: bold;
+  font-style: none;
+  font-family: montserrat;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  items-align: center;
+}
